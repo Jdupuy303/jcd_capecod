@@ -1,0 +1,161 @@
+html {
+    font-size: 1em;
+    line-height: 1 .4;
+	font-family: helvetica;
+	color: #222;
+}
+body {
+    background: #d4d4d4;
+    font-family: Roboto;
+    overflow-y: scroll;
+	margin: 0;
+}
+.wrap {
+    width: 1337px;
+    margin: auto;
+    font-size: 20px;
+}
+div {
+    display: block;
+}
+#nav_bar{
+    background: #224768;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+#nav_bar ul {
+    float: left;
+    text-align: center;
+    display: flex;
+    list-style: none;
+}
+#nav_bar li,{
+    float: left;
+    list-style: none;
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
+#nav_bar li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 20px 23px 15px;
+    display: block;
+}
+#nav_bar .social {
+    float: right;
+    margin-right: 15px;
+    margin-top: 12px;
+}
+.clear, .clear-fix{
+    clear: both;
+}
+#top_news {
+    clear: both;
+    background: #224768;
+    height: auto;
+}
+#top_news .big {
+    border-right: 1px solid #2b3c44;
+    width: 1336px;
+    height: 720px;
+}
+#top_news .big, #top_news{
+    background-position: center center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    padding: 0;
+}
+.title {
+    color: #fff;
+    text-decoration: none;
+    font-size: 30px;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    font-family: Roboto;
+    font-weight: 400;
+    background-color: rgba(0,0,0,.5);
+    width: 97%;
+    margin-left: -11px;
+    padding: 10px 15px;
+}
+#top_news .news {
+    display: block;
+    padding: 15px;
+    float: left;
+    position: relative;
+}
+}
+#top_news span.title {
+    color: #fff;
+    text-decoration: none;
+    font-size: 30px;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    font-family: Roboto;
+    font-weight: 400;
+    background-color: rgba(0,0,0,.5);
+    width: 97%;
+    margin-left: -11px;
+    padding: 10px 15px;
+}
+#main {
+    padding-top: 5px;
+}
+.article {
+    padding-bottom: 8px;
+    padding-top: 8px;
+    margin-bottom: 8px;
+    height: 141px;
+}
+#avatar {
+    width: 135px;
+    height: 135px;
+    border-radius: 70px;
+    border: solid;
+}
+.blue {
+    background: #0d213a;
+    clear: both;
+    position: relative;
+}
+#footer.pad,{
+    padding-top: 40px;
+}
+#footer {
+    background: #fff;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
